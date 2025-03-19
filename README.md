@@ -1,6 +1,5 @@
 <h1>Olá Mundo :space_invader:</h1>
 
-<h3>:dragon_face: Presidente da <a href="https://github.com/RAS-UFPB">IEEE RAS UFPB</a>.</h3>
 <h3>:microscope: - Pesquisador em robótica com Enfase em Localização e Visão no <a href="https://github.com/LASER-Robotics">LASER</a>.</h3>
 
 <br>
