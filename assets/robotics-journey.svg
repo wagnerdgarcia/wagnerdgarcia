@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="410" viewBox="0 0 1080 410" role="img" aria-labelledby="title desc">
+<title id="title">Da computação à robótica</title>
+<desc id="desc">Formação técnica em Manutenção e Suporte em Informática pelo IFPB, graduação em Engenharia da Computação pela UFPB e mestrado em andamento com pesquisa em robótica e sistemas autônomos.</desc>
+<rect width="1080" height="410" rx="24" fill="#0d1117"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="540" y="48" text-anchor="middle" fill="#58a6ff" font-size="14" letter-spacing="3">ENGENHARIA E PESQUISA</text>
+<text x="540" y="94" text-anchor="middle" fill="#f0f6fc" font-size="34" font-weight="700">Da computação à robótica</text>
+<text x="540" y="127" text-anchor="middle" fill="#b1bac4" font-size="18">Formação técnica e acadêmica aplicada a sistemas autônomos</text>
+<path d="M195 257 H885" stroke="#58a6ff" stroke-width="3"/>
+<g fill="#161b22" stroke="#30363d">
+<rect x="40" y="164" width="310" height="206" rx="16"/>
+<rect x="385" y="164" width="310" height="206" rx="16"/>
+<rect x="730" y="164" width="310" height="206" rx="16"/>
+</g>
+<g fill="none" stroke="#58a6ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="158" y="190" width="74" height="48" rx="5"/>
+<path d="M195 238 V250 M178 250 H212 M180 209 L171 215 L180 221 M210 209 L219 215 L210 221 M199 207 L191 223"/>
+</g>
+<g fill="none" stroke="#a78bfa" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="515" y="195" width="50" height="44" rx="5"/>
+<rect x="529" y="208" width="22" height="18" rx="2"/>
+<path d="M525 185 V195 M540 185 V195 M555 185 V195 M525 239 V249 M540 239 V249 M555 239 V249 M505 202 H515 M505 217 H515 M505 232 H515 M565 202 H575 M565 217 H575 M565 232 H575"/>
+</g>
+<g fill="none" stroke="#3fb950" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M885 192 L849 214 L863 243 H908 L922 214 Z M849 214 H922 M885 192 L885 226 M863 243 L885 226 L908 243"/>
+<circle cx="885" cy="192" r="6" fill="#161b22"/>
+<circle cx="849" cy="214" r="6" fill="#161b22"/>
+<circle cx="922" cy="214" r="6" fill="#161b22"/>
+<circle cx="863" cy="243" r="6" fill="#161b22"/>
+<circle cx="908" cy="243" r="6" fill="#161b22"/>
+<circle cx="885" cy="226" r="6" fill="#161b22"/>
+</g>
+<g text-anchor="middle">
+<text x="195" y="284" fill="#f0f6fc" font-size="23" font-weight="700">IFPB</text>
+<text x="195" y="316" fill="#b1bac4" font-size="15">Manutenção e suporte em informática</text>
+<text x="195" y="346" fill="#58a6ff" font-size="14" font-weight="700">FORMAÇÃO TÉCNICA</text>
+<text x="540" y="284" fill="#f0f6fc" font-size="23" font-weight="700">UFPB</text>
+<text x="540" y="316" fill="#b1bac4" font-size="15">Engenharia da Computação</text>
+<text x="540" y="346" fill="#a78bfa" font-size="14" font-weight="700">GRADUAÇÃO</text>
+<text x="885" y="284" fill="#f0f6fc" font-size="23" font-weight="700">Mestrado</text>
+<text x="885" y="316" fill="#b1bac4" font-size="15">Robótica e sistemas autônomos</text>
+<text x="885" y="346" fill="#3fb950" font-size="14" font-weight="700">EM ANDAMENTO</text>
+</g>
+</g>
+</svg>
